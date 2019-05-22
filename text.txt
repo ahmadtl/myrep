@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello,Git
 Hello,Form Assinowsk)
 New line. 1413423
+=======
+Hello,Git
+>>>>>>> parent of 0ece7e4... Second Modification of text.txt
