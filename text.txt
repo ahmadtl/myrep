@@ -1,3 +1,7 @@
 Hello,Git
 
+<<<<<<< HEAD
 text.txt file of Master Branch of Repos.
+=======
+The text.txt file of DEV branch
+>>>>>>> dev
